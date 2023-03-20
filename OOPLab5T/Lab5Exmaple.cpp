@@ -1,4 +1,4 @@
-﻿#include <fstream>
+﻿/*#include <fstream>
 #include <iostream>
 #include "Lab5Exmaple.h"
 using namespace std;
@@ -910,3 +910,4 @@ istream& operator>>(istream& is, Adult& a) {
 		is >> a.nameChild[i];
 	return is;
 }
+*/
